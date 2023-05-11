@@ -13,5 +13,6 @@ Steps :
 6) Keep the checkers board under the camera, and we can see the Augmented object projected into the image frame.
 7) Run "./surf" command to see surf feature points 
 
-TIME TRAVEL:
-                "I WONT BE USING MY TIME TRAVEL DAYS"
+
+Link to Video : 
+https://drive.google.com/file/d/1rJyELwbHYpchKoB17jVj5x3f6GR_iGSd/view?usp=sharing
